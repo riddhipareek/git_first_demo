@@ -1,9 +1,7 @@
 # Simple Calculator
-
+# this is git stash
 def add(a, b):
     return a + b
-
-
 
 def multiply(a, b):
     return a * b
@@ -47,3 +45,4 @@ def calculator():
             print(f"Result: {a} / {b} = {divide(a, b)}\n")
 
 calculator()
+
